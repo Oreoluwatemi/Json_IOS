@@ -1,0 +1,21 @@
+{
+"student": "Oreoluwa Lawal"
+"version": "2"
+"count": 5,
+"data":
+[
+{"id": 524,
+"courseCode" : "MAP"
+"courseName" : "Android"},
+{"id": 114,
+"courseCode": "ITC",
+"courseName": "C language"},
+{"id": 5334, "courseCode": "ITE"
+"courseName":"i0S"},
+{"id": 5333,
+"courseCode" : "ITE", "courseName": "Android"},
+{'id": 5331,
+"courseCode": "ITE",
+"courseName"' : "Project Manegment"}
+]
+}
