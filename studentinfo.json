@@ -1,9 +1,12 @@
 {
-   "student":"Oreoluwa Lawal""version":"2""count":5,
+   "student":"Oreoluwa Lawal",
+   "version":"2",
+   "count":5,
    "data":[
       {
          "id":524,
-         "courseCode":"MAP""courseName":"Android"
+         "courseCode":"MAP",
+         "courseName":"Android"
       },
       {
          "id":114,
@@ -12,7 +15,8 @@
       },
       {
          "id":5334,
-         "courseCode":"ITE""courseName":"i0S"
+         "courseCode":"ITE",
+         "courseName":"i0S"
       },
       {
          "id":5333,
